@@ -39,7 +39,7 @@ git push -u origin main
 •	Opened a new Pull Request from main branch.
 •	Submitted PR for code review and integration.
 
- Gatekeeper Role: 
+ Gatekeeper Role: DONE
      As gatekeeper first i reviewed the pull request created by my partner,everything seems good so i merged the pull request.
      pull the latest changes if any from the remote repository using this command:
                                git pull origin main
@@ -59,7 +59,7 @@ git push -u origin main
 •	Installed the required dependencies using pip install -r requirements.txt using this command: python -m venv venv
 
 
- Step 4: Swap Roles and Repeat 
+ Step 4: Swap Roles and Repeat DONE 
     we swap roles and repeat
 
 
