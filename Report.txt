@@ -39,15 +39,11 @@ git push -u origin main
 •	Opened a new Pull Request from main branch.
 •	Submitted PR for code review and integration.
 
-Gatekeeper Role:
-
-As gatekeeper first i reviewed the pull request created by my partner,
-everything seems good so i merged the pull request.
-pull the latest changes if any from the remote repository using this command:
-git pull origin main
-
-To ensure the project runs in a controlled and consistent environment, I performed the following steps:
-
+ Gatekeeper Role: 
+     As gatekeeper first i reviewed the pull request created by my partner,everything seems good so i merged the pull request.
+     pull the latest changes if any from the remote repository using this command:
+                               git pull origin main
+    To ensure the project runs in a controlled and consistent environment, I performed the following steps:
 •	Navigated to the project directory
 •	setting up pyenv to manage Python versions in your shell environment
           echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
@@ -61,5 +57,9 @@ To ensure the project runs in a controlled and consistent environment, I perform
 •	Created a virtual environment (venv) using: python -m venv myenv
 •	source myenv/bin/activate (to activate the environment)
 •	Installed the required dependencies using pip install -r requirements.txt using this command: python -m venv venv
+
+
+ Step 4: Swap Roles and Repeat 
+    we swap roles and repeat
 
 
